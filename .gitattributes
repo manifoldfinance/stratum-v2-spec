@@ -1,0 +1,8 @@
+# text files
+*.docx diff=word
+# date
+date*.txt filter=dater
+/.github            export-ignore
+/.editorconfig      export-ignore
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
